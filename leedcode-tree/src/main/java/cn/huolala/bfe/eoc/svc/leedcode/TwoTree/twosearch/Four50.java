@@ -1,6 +1,6 @@
-package com.demo.leetcode.TwoTree.twosearch;
+package cn.huolala.bfe.eoc.svc.leedcode.TwoTree.twosearch;
 
-import com.demo.leetcode.TwoTree.TreeNode;
+import cn.huolala.bfe.eoc.svc.leedcode.TwoTree.TreeNode;
 
 public class Four50 {
     public static TreeNode deleteNode(TreeNode root, int key) {

@@ -1,4 +1,4 @@
-package com.demo.leetcode.dp;
+package cn.huolala.bfe.eoc.svc.leedcode.dp;
 
 public class DpTest {
 
