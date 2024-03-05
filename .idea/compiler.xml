@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="leedcode-algorithm" />
         <module name="leedcode-dp" />
         <module name="leedcode-common" />
         <module name="leedcode-linked-list" />
